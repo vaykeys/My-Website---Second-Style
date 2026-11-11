@@ -1,0 +1,6 @@
+{
+  "name": "Girly Tech Portfolio",
+  "description": "A playful, bold, and elegant multi-page personal portfolio in yellow-orange and light green with a dark space background and interactive buttons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
